@@ -1,0 +1,38 @@
+@charset "UTF-8";
+/* Lits styles */
+
+
+#index {
+	clear:both;
+	border-bottom:1px solid black;
+	width:100%;
+}
+
+#index a {
+	font-size:24px;
+	margin:10px;
+}
+
+#charts li {
+	font-size:20px;
+	margin:40px 20px 0px;
+}
+
+ul {
+	list-style:none;
+	clear:both;
+	margin-bottom: 50px;
+}
+
+.artist {
+	font-size: 18px;
+}
+
+#addSong {
+	float:right; 
+	position: relative; 
+	top: 0px; 
+	right: 20px;
+	font-size: 22px;
+	font-weight:400;
+}

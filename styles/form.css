@@ -1,0 +1,82 @@
+form {
+	clear: both;
+	display: block;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+fieldset {
+	border: 0;
+}
+
+legend {
+	font-size: 20px;
+}
+
+label {
+	display: block;
+	margin-top: 10px;
+}
+
+.control-group {
+	margin-top: 20px;
+}
+
+
+textarea {
+	margin-top: 10px;
+	display: block;
+	width: 350px;
+	height: 350px;
+	font-size: 14px;
+}
+
+
+#search {
+	width: 300px;
+	height: 30px;
+	font-size: 20px;
+	border: 1px "Dim Gray" solid;
+	color: #858585;
+	display: block;
+	float: left;
+	position: relative;
+	left: -380;
+	top: 65px;
+}
+
+fieldset {
+	width: 450px;
+	
+}
+
+input[type="text"], input[type="file"], input[type="password"], input[type="email"] {
+	width: 300px;
+	height: 25px;
+	font-size: 20px;
+	border: 1px "Dim Gray" solid;
+	margin-top: 20px;
+	color: #858585;
+	float: right;
+}
+
+input[type="submit"], input[type="reset"] {
+	width: 100px;
+	height: 25px;
+	font-size: 16px;
+	background-color: #e2e3e3;
+	font-size: 16px;
+	margin-left: 10px;
+	-moz-border-radius: 5;
+    -webkit-border-radius: 5;
+    border-radius:6;
+}
+
+
+label {
+	float: left;
+	font-size: 20px;
+	margin-right: 20px;
+	clear: both;
+}
